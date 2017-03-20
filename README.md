@@ -1,6 +1,6 @@
 Continuous Integration with Jenkins on Amazon EC2
 =================================================
-# added a new line
+# added one line
 
 # testing source tree
 
